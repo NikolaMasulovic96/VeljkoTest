@@ -13,7 +13,7 @@ const Component1 = () => {
     return (
         <div className={styles.screenContainer}>
             <p>Component 1</p>
-            <button onClick={onClick}>Click on me!</button>
+            <button onClick={onClick}>bilo sta</button>
         </div>
     )
 
